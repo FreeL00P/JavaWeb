@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!--XML文件的声明  -->
+<books>
+    <book sn="SN1234325">
+        <name>时间简史</name>
+        <author>霍金</author>
+        <price>47</price>
+    </book>
+
+    <book sn="SN1234325">
+        <name>java从入门到放弃</name>
+        <author>
+            <![CDATA[<<<<<<<<黑马]]>
+            </author>
+        <price>9.9</price>
+    </book>
+</books>
